@@ -18,7 +18,7 @@ $ apt install php
 
 $ apt install wget
 
-$ git clone 
+$ git clone https://github.com/Vishnusharma55/WishFish.git
 
 **Usage**
 
